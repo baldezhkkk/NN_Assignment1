@@ -1,2 +1,2 @@
 # Neural-Networks
-Study for 3rd year of Computer science 
+Study for Neural Networks, assignment number one.
